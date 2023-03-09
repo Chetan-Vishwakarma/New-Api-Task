@@ -1,0 +1,14 @@
+.CardDiv{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    margin-left: 66px;
+}
+
+.DetailsPage{
+    display: flex;
+    justify-content: center;
+}
+
+.DetailsPageDiv{
+    text-align: center;
+}
